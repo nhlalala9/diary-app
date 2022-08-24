@@ -1,0 +1,33 @@
+.overlay{
+  background-color: rgba(0, 0, 0, 0.8);
+  margin-top:5%;
+  color: white;
+  border: 1px solid white;
+  padding-top: 2%;
+}
+hr{
+  background-color: teal;
+  width: 20%;
+}
+
+.card{
+  background-color: rgba(0, 128, 128, 0.4);
+  margin-bottom: 2%;
+}
+#date{
+  float:right;
+  font-size: 18px;
+}
+#search{
+  width: 30%;
+  margin-left: 70%;
+  margin-bottom: 6px;
+  background: transparent;
+  border: 1px solid teal;
+}
+.form-control::placeholder{
+  color: white;
+}
+input[type='text']{
+  color: white;
+}

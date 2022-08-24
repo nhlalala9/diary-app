@@ -1,0 +1,17 @@
+.form-control{
+  background: transparent;
+  border: 1px solid teal;
+}
+h4{
+  color: rgb(3, 173, 173);
+}
+.form-control::placeholder{
+  color: white;
+}
+.save{
+  border: 3px solid rgb(16, 241, 241);
+  color: white;
+}
+input[type='text'],input[type='date'],textarea{
+  color: white;
+}
